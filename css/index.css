@@ -1,0 +1,19 @@
+.header-img{
+    width: 195px;
+    height: 39px;
+}
+.header-navigation{
+    width: 581px;
+    font-family: 'Lato';
+    font-size: 20px;
+    color: #3D37F1;
+    display: flex;
+    justify-content: space-between;
+}
+.header{
+    width: 1408px;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
