@@ -17,3 +17,49 @@
     justify-content: space-around;
     align-items: flex-end;
 }
+.section-information{
+    width: 1408px;
+    height: 562px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.information-img{
+    width: 500px;
+}
+.information-left-div{
+    display: flex;
+    flex-direction: column;
+}
+.information-title{
+    width: 460px;
+    height: 180px;
+    font-family: 'Lato';
+    font-size: 60px;
+    color: #534D4D;
+}
+.information-text{
+    width: 460px;
+    height: 80px;
+    color: #534D4D;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 30px;
+}
+.div-button{
+    width: 200px;
+    height: 77px;
+    background-color: #3D37F1;
+    color: #FFFFFF;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.button-icon{
+    width: 30px;
+    height: 30px;
+}
+.button-text{
+    font-size: 23px;
+    font-family: 'Poppins', sans-serif;
+}
