@@ -17,7 +17,7 @@
     justify-content: space-around;
     align-items: flex-end;
 }
-.section-information1{
+.section1{
     width: 1408px;
     height: 562px;
     display: flex;
@@ -63,7 +63,7 @@
     font-size: 23px;
     font-family: 'Poppins', sans-serif;
 }
-.section-information2{
+.section2{
     width: 1408px;
     display: flex;
     justify-content: center;
